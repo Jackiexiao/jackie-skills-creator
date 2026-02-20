@@ -30,5 +30,9 @@
   {
     "skill": "web-design-guidelines",
     "path": "skills/web-design-guidelines"
+  },
+  {
+    "skill": "tailwind-design-system",
+    "path": "skills/tailwind-design-system"
   }
 ]
