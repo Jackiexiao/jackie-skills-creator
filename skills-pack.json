@@ -34,5 +34,21 @@
   {
     "skill": "tailwind-design-system",
     "path": "skills/tailwind-design-system"
+  },
+  {
+    "skill": "baoyu-cover-image",
+    "path": "skills/baoyu-cover-image"
+  },
+  {
+    "skill": "baoyu-comic",
+    "path": "skills/baoyu-comic"
+  },
+  {
+    "skill": "baoyu-infographic",
+    "path": "skills/baoyu-infographic"
+  },
+  {
+    "skill": "ai-image-generation",
+    "path": "skills/ai-image-generation"
   }
 ]
