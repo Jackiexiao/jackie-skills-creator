@@ -1,0 +1,34 @@
+[
+  {
+    "skill": "social-content",
+    "path": "skills/social-content"
+  },
+  {
+    "skill": "copywriting",
+    "path": "skills/copywriting"
+  },
+  {
+    "skill": "copy-editing",
+    "path": "skills/copy-editing"
+  },
+  {
+    "skill": "canvas-design",
+    "path": "skills/canvas-design"
+  },
+  {
+    "skill": "remotion-best-practices",
+    "path": "skills/remotion-best-practices"
+  },
+  {
+    "skill": "ui-ux-pro-max",
+    "path": "skills/ui-ux-pro-max"
+  },
+  {
+    "skill": "algorithmic-art",
+    "path": "skills/algorithmic-art"
+  },
+  {
+    "skill": "web-design-guidelines",
+    "path": "skills/web-design-guidelines"
+  }
+]
